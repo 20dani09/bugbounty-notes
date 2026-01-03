@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "test"
             }
           }
         ],
@@ -199,11 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1cbe2fe4ed22f14",
+  "active": "65eb6ecf529dea4d",
   "lastOpenFiles": [
+    "Readme.md",
+    "test.md",
+    "pics/test.md",
     "pics/Pasted image 20260103173250.png",
     "pics",
-    "Welcome.md",
-    "Readme.md"
+    "Welcome.md"
   ]
 }
